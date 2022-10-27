@@ -26,6 +26,11 @@ Below is a directory to help navigate my profile.  **Please see my [portfolio we
 - [Improved Microblog](https://github.com/ultasun/miguel_mega_flask#improvements-from-the-original-microblog)
   - *Miguel Grinberg's* *Microblog* with a couple modern improvements
   - Flask, SQLAlchemy
+- [Re-date](https://github.com/ultasun/re-date)
+  - A quick Python 3 tool for reformatting datetime columns in a CSV file
+  - Also can throw away every *nth* row to trim data evenly
+- [Advent Of Code 2021 - Day 1 - Parts 1 and 2](https://github.com/ultasun/adventofcode.com-2021-day-1)
+  - Providing a [single function](https://github.com/ultasun/adventofcode.com-2021-day-1/blob/main/solution.py#L13) which may solve both *Part 1* and *Part 2* 
 
 # Ruby on Rails
 - [Getting Started](https://github.com/ultasun/getting_started_with_rails-7.0.4)
