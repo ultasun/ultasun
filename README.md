@@ -31,6 +31,8 @@ Below is a directory to help navigate my profile.  **Please see my [portfolio we
   - Also can throw away every *nth* row to trim data evenly
 - [Advent Of Code 2021 - Day 1 - Parts 1 and 2](https://github.com/ultasun/adventofcode.com-2021-day-1)
   - Providing a [single function](https://github.com/ultasun/adventofcode.com-2021-day-1/blob/main/solution.py#L13) which may solve both *Part 1* and *Part 2* 
+- [SQLAlchemy 1.4 Tutorial](https://github.com/ultasun/sqlalchemy_1.4_tutorial)
+  - Reviewing the proper [*SQLAlchemy*](https://sqlalchemy.org) tutorial.
 
 # Ruby on Rails
 - [Getting Started](https://github.com/ultasun/getting_started_with_rails-7.0.4)
