@@ -1,7 +1,7 @@
 # Welcome
 Below is a directory to help navigate my profile.  **Please see my [portfolio website](https://ultasun-portfolio.herokuapp.com/) to access some live demos for most of these projects!**
 
-# Index By Language (or [*D.S.L.*](https://en.wikipedia.org/wiki/Domain-specific_language)*)
+# Index By Language (or [*D.S.L.*](https://en.wikipedia.org/wiki/Domain-specific_language))
 ## Java
 - [chatland](https://github.com/ultasun/chatland)
   - A basic multithreaded *Internet Relay Chat* server
